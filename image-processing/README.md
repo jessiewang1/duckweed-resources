@@ -1,6 +1,6 @@
 # Image processing
 
-Test data is provided in a folder
+Test data is provided in a zipped folder
 
 ## Duckplate app (Python)
 See Duckplate folder or Tiago's repository.
