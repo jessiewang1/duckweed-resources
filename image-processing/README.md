@@ -8,7 +8,7 @@ See Duckplate folder or Tiago's repository. Note that 1=plate on right side, 2=p
 **Currently needs to be updated**
 
 ## Using Symbiont
-See the PDF of instructions on how to process images using the Symbiont server. 
+See the document of instructions on how to process images using the Symbiont server. 
 
 **Newly updated November 19, 2023** Please see the latest copy of instructions.
 
